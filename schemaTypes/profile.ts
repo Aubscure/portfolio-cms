@@ -8,6 +8,7 @@ export default {
     {name: 'lastName', title: 'Last Name', type: 'string'},
     {name: 'nickname', title: 'Nickname', type: 'string'},
     {name: 'logo', title: 'Personal Logo', type: 'image'},
+    {name: 'philosophy', title: 'Philosophy', type: 'string'},
 
     // About Me
     {name: 'aboutDescription', title: 'About Me Description', type: 'text'},
